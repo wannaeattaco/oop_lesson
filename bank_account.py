@@ -75,3 +75,4 @@ print(my_account_DB)
 
 
 my_account_DB.delete_account("0003")
+print(my_account_DB)
