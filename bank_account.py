@@ -71,8 +71,7 @@ my_account_DB.insert(account2)
 my_account_DB.insert(account3)
 my_account_DB.insert(account4)
 my_account_DB.insert(account5)
+
 print(my_account_DB)
-
-
 my_account_DB.delete_account("0003")
 print(my_account_DB)
